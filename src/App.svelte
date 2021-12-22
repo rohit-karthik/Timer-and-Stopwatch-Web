@@ -18,12 +18,12 @@
 	<main>
 		<a
 			class="downloadLink"
-			href="Timer and Stopwatch-1.0.0-arm64.dmg"
+			href="https://github.com/rohit-karthik/Timer_and_stopwatch_app/releases/latest/download/Timer-and-Stopwatch-mac-x64.dmg"
 			download>Download for Apple Silicon</a
 		>
 		<a
 			class="downloadLinkWin"
-			href="Timer and Stopwatch Setup 1.0.0.exe"
+			href="https://github.com/rohit-karthik/Timer_and_stopwatch_app/releases/latest/download/Timer-and-Stopwatch-win-x64.exe"
 			download>Download for Windows</a
 		>
 	</main>
